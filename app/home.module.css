@@ -1,0 +1,7 @@
+.hero {
+  font-size: "4rem";
+  font-weight: 700;
+  color: "var(--color-primary)";
+  text-align: "center";
+  margin: "0 0 2rem 0";
+}
